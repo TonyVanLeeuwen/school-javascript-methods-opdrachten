@@ -2,7 +2,7 @@
 // Schrijf een functie die de diameter van een cirkel verwacht als parameter en
 // de omtrek van die cirkel bererekent en teruggeeft
 // tip: PI * diameter
-// ---- Verwachte uitkomsten:
+// ---- Verwachte uitkomsten:aa
 // 4 geeft 12.566370614359172
 // 12 geeft 37.69911184307752
 
